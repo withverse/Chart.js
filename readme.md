@@ -8,11 +8,12 @@ You can find documentation at [chartjs.org/docs](http://www.chartjs.org/docs).
 
 License
 -------
-Chart.js was taken down on the 19th March. It is now back online for good and IS available under MIT license.
-
 Chart.js is available under the [MIT license] (http://opensource.org/licenses/MIT).
 
 About this fork
 -------
-This fork adds support for multi colored bars in bargraphs
+- Support for multi colored bar's
+- @Raggadi's tooltip feature
+
+
 Kailash, June 2013
